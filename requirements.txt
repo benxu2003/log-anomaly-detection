@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+matplotlib
+networkx
+# optional: only needed for the supervised benchmark in supervised.py
+xgboost
